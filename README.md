@@ -2,7 +2,7 @@
 
 ## Content of StarWars App
 
-- This Vue.js project lists Starwars starships with details. Starships can be searched with their name and model.
+- This Vue.js project lists Starwars starships with details. Starships can be searched with their names and models.
 
 ![](screenshots/starwars-app-landing.png)
 
